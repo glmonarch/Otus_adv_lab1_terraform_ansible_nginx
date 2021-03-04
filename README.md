@@ -1,7 +1,7 @@
 ### Как запустить стенд?
 
-1. git clone https://github.com/glmonarch/OTUS-Linux_Advanced.git
-2. cd OTUS_Linux_Advanced/LAB1
+1. git clone https://github.com/glmonarch/Otus_adv_lab1_terraform_ansible_nginx.git
+2. cd Otus_adv_lab1_terraform_ansible_nginx
 3. Добавить свой API-токен Advanced Hosting в переменную "ah_token" в файле terraform.tfvars
 4. Добавить свой private ssh key в панели Advanced Hosting.
 5. Скопировать Fingerprint SSH-ключа из панели Advanced Hosting и вставить его значение в переменную "ssh_keys" в файле vm.tf
