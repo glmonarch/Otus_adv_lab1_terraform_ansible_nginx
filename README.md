@@ -1,3 +1,7 @@
+### Описание стенда
+
+После запуска стенда будет создана виртуальная машина c публичным IP адресом в облачном хостинге Advanced Hosting. Затем с помощью Ansible на данную ВМ будет установлен Nginx.
+
 ### Как запустить стенд?
 
 1. git clone https://github.com/glmonarch/Otus_adv_lab1_terraform_ansible_nginx.git
